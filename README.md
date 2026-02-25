@@ -24,4 +24,4 @@ This repository will contain sample files used for Git practice.
 Kate Redman (GitHub: KateR20)
 ## Pull Request Practice
 
-This section was added from a feature branch to practice pull requests.
+This section demonstrates the pull request workflow using a feature branch before merging into the main branch.
